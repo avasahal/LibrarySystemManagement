@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="App1.SignUpPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/the-most-beautiful-library-in-every-us-state.jpg"/>
+        </Grid.Background>
+        <TextBlock HorizontalAlignment="Left" Margin="560,56,0,0" TextWrapping="Wrap" Text="SIGN UP" VerticalAlignment="Top" Height="57" Width="227" FontSize="48" />
+        <TextBlock HorizontalAlignment="Left" Height="62" Margin="62,138,0,0" TextWrapping="Wrap" Text="Please enter the following requirements to create a user:" VerticalAlignment="Top" Width="614" FontSize="24"/>
+        <TextBlock x:Name="firstNameTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,244,0,0" TextWrapping="Wrap" Text="First Name:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <TextBlock x:Name="lastNameTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,314,0,0" TextWrapping="Wrap" Text="Last Name:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <TextBlock x:Name="emailTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,472,0,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <TextBlock x:Name="passwordTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,556,0,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <TextBox x:Name="firstNameTxtBx" HorizontalAlignment="Left" Height="50" Margin="230,222,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" FontSize="22"/>
+        <TextBox x:Name="lastNameTxtBx" HorizontalAlignment="Left" Height="50" Margin="230,298,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" FontSize="22"/>
+        <TextBox x:Name="emailTxtBx" HorizontalAlignment="Left" Height="50" Margin="230,460,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" FontSize="22"/>
+        <Button x:Name="addUserBtn" Content="Add User" HorizontalAlignment="Left" Height="134" Margin="834,241,0,0" VerticalAlignment="Top" Width="292" FontSize="36" Click="addUserBtn_Click"/>
+        <Button x:Name="returnToLogBtn" Content="Return to Login" HorizontalAlignment="Left" Height="134" Margin="834,428,0,0" VerticalAlignment="Top" Width="292" FontSize="36" Click="returnToLogBtn_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFE20101" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="usernameTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,392,0,0" TextWrapping="Wrap" Text="Username:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <TextBox x:Name="usernameTxtBx" HorizontalAlignment="Left" Height="50" Margin="230,380,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="382" FontSize="22"/>
+        <PasswordBox x:Name="passwordTxtBx" HorizontalAlignment="Left" Margin="230,543,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.219,1.969" Width="382" Height="50" FontSize="22"/>
+        <TextBlock x:Name="usertypeTxtBl" HorizontalAlignment="Left" Height="48" Margin="62,636,0,0" TextWrapping="Wrap" Text="UserType:" VerticalAlignment="Top" Width="130" FontSize="22"/>
+        <ComboBox x:Name="userTypeCmbBx" HorizontalAlignment="Left" Height="48" Margin="230,626,0,0" VerticalAlignment="Top" Width="382"/>
+
+    </Grid>
+</Page>

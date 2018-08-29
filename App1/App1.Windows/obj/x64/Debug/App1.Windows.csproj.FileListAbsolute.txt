@@ -1,0 +1,136 @@
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\App.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\03ListofItems.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\01Login.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\02MenuAdmin.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\04AddItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\05EditItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\06SearchItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\07SignUpPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.xr.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.exe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\resources.pri
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\AppxManifest.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.build.appxrecipe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\BookLib.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\UserLogics.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\BookLib.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\x64\Debug\UserLogics.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.exe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\priconfig.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\layout.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\resources.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\pri.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\qualifiers.txt
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\03ListofItems.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\01Login.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\02MenuAdmin.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\04AddItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\05EditItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\06SearchItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\07SignUpPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.xr.xml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.exe
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.pdb
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\resources.pri
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\AppxManifest.xml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.build.appxrecipe
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\BookLib.dll
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\UserLogics.dll
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\BookLib.pdb
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\UserLogics.pdb
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.g.i.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.xaml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\03ListofItems.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\01Login.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\02MenuAdmin.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\04AddItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\05EditItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\06SearchItemPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\07SignUpPage.xbf
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.exe
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.pdb
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\priconfig.xml
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\layout.resfiles
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\layout.resfiles.intermediate
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\resources.resfiles
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\pri.resfiles
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\qualifiers.txt
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\ProjectArchitectures.txt

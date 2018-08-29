@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="App1.MenuGuest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="allItemsBtn" Content="All Items" HorizontalAlignment="Left" Height="280" Margin="161,94,0,0" VerticalAlignment="Top" Width="436" FontSize="36"/>
+        <Button x:Name="searchBtn" Content="Search for items" HorizontalAlignment="Left" Height="280" Margin="771,94,0,0" VerticalAlignment="Top" Width="436" FontSize="36"/>
+        <Button x:Name="returnLoginBtn" Content="Return to Login" HorizontalAlignment="Left" Height="274" Margin="474,431,0,0" VerticalAlignment="Top" Width="430" FontSize="36" Click="returnLoginBtn_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

@@ -1,0 +1,495 @@
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App.g.i.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\Login.g.i.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\Login.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.i.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.i.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App.xaml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\App.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\Login.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\MenuAdmin.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\MenuGuest.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.exe
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\resources.pri
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\AppxManifest.xml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\Login.xaml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xaml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xaml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\Login.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.exe
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\bin\Debug\ListofItems.xbf
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.i.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.cs
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xaml
+c:\Users\881\documents\visual studio 2013\Projects\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\ListofItems.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\Login.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\MenuAdmin.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\MenuGuest.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.i.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.g.i.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.i.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.i.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xaml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.xaml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xaml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xaml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xbf
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Eden Siboni\Desktop\BookLib\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+E:\BookLib\App1\App1.Windows\bin\Debug\App.xbf
+E:\BookLib\App1\App1.Windows\bin\Debug\ListofItems.xbf
+E:\BookLib\App1\App1.Windows\bin\Debug\Login.xbf
+E:\BookLib\App1\App1.Windows\bin\Debug\MenuAdmin.xbf
+E:\BookLib\App1\App1.Windows\bin\Debug\MenuGuest.xbf
+E:\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+E:\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.exe
+E:\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+E:\BookLib\App1\App1.Windows\bin\Debug\resources.pri
+E:\BookLib\App1\App1.Windows\bin\Debug\AppxManifest.xml
+E:\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+E:\BookLib\App1\App1.Windows\obj\Debug\App.g.i.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\App.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.i.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\Login.g.i.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\Login.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.i.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.i.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+E:\BookLib\App1\App1.Windows\obj\Debug\App.xaml
+E:\BookLib\App1\App1.Windows\obj\Debug\Login.xaml
+E:\BookLib\App1\App1.Windows\obj\Debug\App.xbf
+E:\BookLib\App1\App1.Windows\obj\Debug\Login.xbf
+E:\BookLib\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+E:\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xaml
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xaml
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xaml
+E:\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xbf
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xbf
+E:\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xbf
+E:\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.exe
+E:\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+E:\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml
+E:\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+E:\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles
+E:\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+E:\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles
+E:\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+E:\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles
+E:\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+E:\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt
+E:\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+E:\BookLib\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\BookLib\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\ListofItems.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\Login.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\MenuAdmin.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\MenuGuest.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\BookLib.dll
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\bin\Debug\BookLib.pdb
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.i.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.g.i.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.i.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.i.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xaml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xaml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xaml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.xaml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\Login.xbf
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\857\Desktop\BookLib\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\App.xbf
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\ListofItems.xbf
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\Login.xbf
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\MenuAdmin.xbf
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\MenuGuest.xbf
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.exe
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\resources.pri
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\AppxManifest.xml
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\BookLib.dll
+M:\New folder\BookLib\App1\App1.Windows\bin\Debug\BookLib.pdb
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App.g.i.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.i.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\ListofItems.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\Login.g.i.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\Login.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.i.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.i.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App.xaml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xaml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\Login.xaml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xaml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xaml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App.xbf
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\ListofItems.xbf
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\Login.xbf
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuAdmin.xbf
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MenuGuest.xbf
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.exe
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+M:\New folder\BookLib\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.dll
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.pdb
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.dll
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.pdb
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.dll
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.dll
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.pdb
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.pdb
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\03ListofItems.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\01Login.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\02MenuAdmin.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.dll
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.pdb
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\03ListofItems.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\01Login.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\02MenuAdmin.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.dll
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.pdb
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.i.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.i.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.i.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xaml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xaml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xaml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\04AddItemPage.xbf
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.i.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.cs
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xaml
+C:\Users\msvs\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\03ListofItems.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\01Login.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\02MenuAdmin.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\04AddItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\05EditItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\06SearchItemPage.xbf
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.i.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.cs
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xaml
+C:\Users\pilat\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\04AddItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\05EditItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\06SearchItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\07SignUpPage.xbf
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.g.i.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.g.cs
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.xaml
+C:\Users\881\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\03ListofItems.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\01Login.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\02MenuAdmin.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\04AddItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\05EditItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\06SearchItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\07SignUpPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.exe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\resources.pri
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\AppxManifest.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.build.appxrecipe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\BookLib.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\UserLogics.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.g.i.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.xaml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\03ListofItems.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\01Login.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\02MenuAdmin.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\04AddItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\05EditItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\06SearchItemPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\07SignUpPage.xbf
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\XamlSaveStateFile.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.exe
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\App1.Windows.csproj.GenerateResource.Cache
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\priconfig.xml.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\layout.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\resources.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\pri.resfiles.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\qualifiers.txt.intermediate
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-K5D7T3C</Machine>
+    <WindowsUser>AvaSahal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>4acf0868-5d7a-4947-ab34-86369253b113</PackageIdentityName>
+    <PackageIdentityPublisher>CN=881</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\BookLib\bin\Debug\BookLib.dll">
+      <PackagePath>BookLib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\UserLogics\bin\Debug\UserLogics.dll">
+      <PackagePath>UserLogics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\the-most-beautiful-library-in-every-us-state.jpg">
+      <PackagePath>Assets\the-most-beautiful-library-in-every-us-state.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\03ListofItems.xbf">
+      <PackagePath>03ListofItems.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\01Login.xbf">
+      <PackagePath>01Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\02MenuAdmin.xbf">
+      <PackagePath>02MenuAdmin.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\04AddItemPage.xbf">
+      <PackagePath>04AddItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\05EditItemPage.xbf">
+      <PackagePath>05EditItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\06SearchItemPage.xbf">
+      <PackagePath>06SearchItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\07SignUpPage.xbf">
+      <PackagePath>07SignUpPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

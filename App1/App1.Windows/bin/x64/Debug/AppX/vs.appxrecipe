@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-K5D7T3C</Machine>
+    <WindowsUser>AvaSahal</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>4acf0868-5d7a-4947-ab34-86369253b113</PackageIdentityName>
+    <PackageIdentityPublisher>CN=881</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>FF157006D23052BBCECFBFBC0D0182FA48139E52061AAFC2D412430CEA9E32C8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4acf0868-5d7a-4947-ab34-86369253b113_1.0.0.0_x64__16a94kwdhknsm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4acf0868-5d7a-4947-ab34-86369253b113_16a94kwdhknsm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4acf0868-5d7a-4947-ab34-86369253b113</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=881</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-23T14:08:58.581</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2018-03-08T14:50:03.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\BookLib\bin\Debug\BookLib.dll">
+      <PackagePath>BookLib.dll</PackagePath>
+      <Modified>2017-08-23T12:18:37.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\UserLogics\bin\Debug\UserLogics.dll">
+      <PackagePath>UserLogics.dll</PackagePath>
+      <Modified>2017-08-23T13:53:19.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\Assets\the-most-beautiful-library-in-every-us-state.jpg">
+      <PackagePath>Assets\the-most-beautiful-library-in-every-us-state.jpg</PackagePath>
+      <Modified>2017-08-23T14:05:46.004</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2018-03-08T14:50:02.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-08-23T12:51:46.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\03ListofItems.xbf">
+      <PackagePath>03ListofItems.xbf</PackagePath>
+      <Modified>2017-08-23T14:11:09.381</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\01Login.xbf">
+      <PackagePath>01Login.xbf</PackagePath>
+      <Modified>2018-03-08T14:50:03.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\02MenuAdmin.xbf">
+      <PackagePath>02MenuAdmin.xbf</PackagePath>
+      <Modified>2017-08-23T14:08:58.161</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\04AddItemPage.xbf">
+      <PackagePath>04AddItemPage.xbf</PackagePath>
+      <Modified>2017-08-23T14:08:58.167</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\05EditItemPage.xbf">
+      <PackagePath>05EditItemPage.xbf</PackagePath>
+      <Modified>2017-08-23T14:08:58.171</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\06SearchItemPage.xbf">
+      <PackagePath>06SearchItemPage.xbf</PackagePath>
+      <Modified>2017-08-23T14:08:58.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\07SignUpPage.xbf">
+      <PackagePath>07SignUpPage.xbf</PackagePath>
+      <Modified>2017-08-23T14:08:58.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-23T14:08:58.478</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

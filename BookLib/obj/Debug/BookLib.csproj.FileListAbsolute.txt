@@ -1,0 +1,40 @@
+c:\users\881\documents\visual studio 2013\Projects\BookLib\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+c:\users\881\documents\visual studio 2013\Projects\BookLib\BookLib\bin\Debug\BookLib.dll
+c:\users\881\documents\visual studio 2013\Projects\BookLib\BookLib\bin\Debug\BookLib.pdb
+c:\users\881\documents\visual studio 2013\Projects\BookLib\BookLib\obj\Debug\BookLib.dll
+c:\users\881\documents\visual studio 2013\Projects\BookLib\BookLib\obj\Debug\BookLib.pdb
+E:\BookLib\BookLib\bin\Debug\BookLib.dll
+E:\BookLib\BookLib\bin\Debug\BookLib.pdb
+E:\BookLib\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+E:\BookLib\BookLib\obj\Debug\BookLib.dll
+E:\BookLib\BookLib\obj\Debug\BookLib.pdb
+C:\Users\857\Desktop\BookLib\BookLib\bin\Debug\BookLib.dll
+C:\Users\857\Desktop\BookLib\BookLib\bin\Debug\BookLib.pdb
+C:\Users\857\Desktop\BookLib\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\857\Desktop\BookLib\BookLib\obj\Debug\BookLib.dll
+C:\Users\857\Desktop\BookLib\BookLib\obj\Debug\BookLib.pdb
+M:\New folder\BookLib\BookLib\bin\Debug\BookLib.dll
+M:\New folder\BookLib\BookLib\bin\Debug\BookLib.pdb
+M:\New folder\BookLib\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+M:\New folder\BookLib\BookLib\obj\Debug\BookLib.dll
+M:\New folder\BookLib\BookLib\obj\Debug\BookLib.pdb
+C:\Users\msvs\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.dll
+C:\Users\msvs\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.pdb
+C:\Users\msvs\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\msvs\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.dll
+C:\Users\msvs\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.pdb
+C:\Users\881\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.dll
+C:\Users\881\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.pdb
+C:\Users\881\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\881\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.dll
+C:\Users\881\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.pdb
+C:\Users\pilat\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.dll
+C:\Users\pilat\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.pdb
+C:\Users\pilat\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\pilat\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.dll
+C:\Users\pilat\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.pdb
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.csprojResolveAssemblyReference.cache
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.dll
+C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\obj\Debug\BookLib.pdb

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TURKIZ33</Machine>
+    <WindowsUser>881</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>4acf0868-5d7a-4947-ab34-86369253b113</PackageIdentityName>
+    <PackageIdentityPublisher>CN=881</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>22F3D7B0EA08A72D31806939166B7F94C202295EBD10873C02BD06A5BEA11438</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4acf0868-5d7a-4947-ab34-86369253b113_1.0.0.0_neutral__16a94kwdhknsm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4acf0868-5d7a-4947-ab34-86369253b113_16a94kwdhknsm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4acf0868-5d7a-4947-ab34-86369253b113</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=881</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-16T11:34:10.005</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.exe">
+      <PackagePath>App1.Windows.exe</PackagePath>
+      <Modified>2017-08-23T12:45:13.671</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\BookLib\bin\Debug\BookLib.dll">
+      <PackagePath>BookLib.dll</PackagePath>
+      <Modified>2017-08-23T12:18:37.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\UserLogics\bin\Debug\UserLogics.dll">
+      <PackagePath>UserLogics.dll</PackagePath>
+      <Modified>2017-08-23T12:18:38.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-16T09:13:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App1.Windows.xr.xml">
+      <PackagePath>App1.Windows.xr.xml</PackagePath>
+      <Modified>2017-08-23T12:18:39.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-16T09:32:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\03ListofItems.xbf">
+      <PackagePath>03ListofItems.xbf</PackagePath>
+      <Modified>2017-08-16T14:05:04.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\01Login.xbf">
+      <PackagePath>01Login.xbf</PackagePath>
+      <Modified>2017-08-10T13:34:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\02MenuAdmin.xbf">
+      <PackagePath>02MenuAdmin.xbf</PackagePath>
+      <Modified>2017-08-03T14:09:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\04AddItemPage.xbf">
+      <PackagePath>04AddItemPage.xbf</PackagePath>
+      <Modified>2017-08-16T14:05:04.176</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\05EditItemPage.xbf">
+      <PackagePath>05EditItemPage.xbf</PackagePath>
+      <Modified>2017-08-16T14:05:04.180</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\06SearchItemPage.xbf">
+      <PackagePath>06SearchItemPage.xbf</PackagePath>
+      <Modified>2017-08-16T14:05:04.183</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\07SignUpPage.xbf">
+      <PackagePath>07SignUpPage.xbf</PackagePath>
+      <Modified>2017-08-23T12:45:13.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\TEMP.STDDOM.002\Desktop\BookLibbb\App1\App1.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-08-16T11:34:09.899</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

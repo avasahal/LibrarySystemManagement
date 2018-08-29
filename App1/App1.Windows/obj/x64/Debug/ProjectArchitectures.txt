@@ -1,0 +1,4 @@
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\App1\App1.Windows\App1.Windows.csproj;x64
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\BookLib\BookLib.csproj;neutral
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\BookLib\BookLib.csproj;neutral
+C:\Users\ava_s\source\repos\Library Project\BookLibbb\UserLogics\UserLogics.csproj;neutral
